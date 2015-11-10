@@ -20,4 +20,5 @@ while (count < 100):
   print teacher
   print cohort
   value.put(teacher)
+  value.put(cohort)
   time.sleep(10)
